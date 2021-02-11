@@ -1,1 +1,2 @@
 # TableauWork
+These graphs were built in Tableau and used to observe the trends of Commodity-Linked Future Notes and Inverses ETPs. With these graphs I found that these products were being held for too long resulting in clients losing money. I took this information to the executives and informed them that the Commodity Link Future Notes should be limited to a holding period of 3 months and that the Inverse ETPS should not be a product that offered on the platform anymore. All of these work was done to better protect investors from poor investment choices. 
